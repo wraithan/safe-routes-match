@@ -12,5 +12,13 @@
     "safe"
   ],
   "author": "Wraithan <xwraithanx@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraithan/safe-routes-match.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wraithan/safe-routes-match/issues"
+  },
+  "homepage": "https://github.com/wraithan/safe-routes-match"
 }
